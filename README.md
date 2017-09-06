@@ -65,6 +65,9 @@ Install PyCharm from [here](https://www.jetbrains.com/pycharm/download/#section=
 ### LaTeX
 Install LaTeX following [this tutorial](http://milq.github.io/install-latex-ubuntu-debian/).
 
+### Jupyter Notebook Server
+Make your Jupyter Notebook server publicly available by following [this tutorial](http://jupyter-notebook.readthedocs.io/en/latest/public_server.html).
+
 ## Leisure
 
 ### Spotify

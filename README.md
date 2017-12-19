@@ -65,6 +65,9 @@ Install PyCharm from [here](https://www.jetbrains.com/pycharm/download/#section=
 ### LaTeX
 Install LaTeX following [this tutorial](http://milq.github.io/install-latex-ubuntu-debian/).
 
+### LaTeX IDE
+Instead of `TexMaker` preferably install `Kile` following [this tutorial](https://wiki.ubuntuusers.de/Kile/).
+
 ### Jupyter Notebook Server
 Make your Jupyter Notebook server publicly available by following [this tutorial](http://jupyter-notebook.readthedocs.io/en/latest/public_server.html).
 
